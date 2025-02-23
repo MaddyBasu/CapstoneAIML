@@ -1,2 +1,2 @@
 # CapstoneAIML
-for the Class of 2024, capstone project
+for the Batch of April 2024, capstone project ( AIML)
